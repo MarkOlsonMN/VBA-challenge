@@ -10,7 +10,8 @@ Date:       04/11/2024
 URL:        https://github.com/MarkOlsonMN/VBA-challenge  
 
 ## Code Source/Location within this Repo
-ReadMe:          VBA-challenge/README.md  
-Excel Workbook:  VBA-challenge/Starter_Code/Multiple_year_stock_data.xlsx  
-Excel Workbook:  VBA-challenge/Starter_Code/alphabetical_testing.xlsx  
-Written Report:  VBA-challenge/Written_Report.docx  
+ReadMe :                         VBA-challenge/README.md  
+Excel VBA Script File :          VBA-challenge/Module_2_Challenge_VBA_Code.bas 
+      VBA Method :                   HW2_ModifyStockTables()
+Screenshots of 2018 2019 2020 :  VBA-challenge/screenshots_of_2018_2019_2020.bmp  
+Screenshots of A B C D E F    :  VBA-challenge/screenshots_of_A_B_C_D_E_F.bmp
